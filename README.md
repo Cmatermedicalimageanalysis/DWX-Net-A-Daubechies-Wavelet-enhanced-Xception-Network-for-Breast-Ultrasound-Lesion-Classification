@@ -15,7 +15,7 @@ Attention and gating mechanisms are integrated into the network to refine featur
 The proposed backbone architecture is designed to strengthen feature extraction and improve contextual understanding within the encoder.  
 It incorporates convolutional feature blocks along with attention-guided feature refinement to capture both low-level texture information and high-level semantic representations.
 
-![XceptionArch](https://github.com/user-attachments/assets/ddbd10bd-4af3-4f66-b0f5-d90aa45a5454)
+![XceptionArch](https://github.com/user-attachments/assets/6d5d333e-30ae-44ad-8911-ca91c9df4af4)
 
 ## Comparative Results
 
