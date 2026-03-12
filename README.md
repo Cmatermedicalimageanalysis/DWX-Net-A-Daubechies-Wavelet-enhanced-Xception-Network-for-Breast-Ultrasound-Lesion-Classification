@@ -7,8 +7,7 @@ The model follows an encoder–decoder structure inspired by U-Net, where the en
 
 Attention and gating mechanisms are integrated into the network to refine feature propagation across different scales. These modules help the model focus on informative lesion regions while filtering out noise commonly present in ultrasound imaging. The skip connections further preserve spatial details, enabling accurate boundary localization during reconstruction.
 
-
-![Model_Arch](https://github.com/user-attachments/assets/9b16aedb-936a-4c0c-961b-6b36054af074)
+![Model_Arch](https://github.com/user-attachments/assets/b949bf86-f66c-4b37-83ec-3732377309a2)
 
 ## Proposed Backbone Architecture
 
